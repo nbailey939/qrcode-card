@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [github repo](https://github.com/nbailey939/qrcode-card)
-- Live Site URL: [live site](https://nbailey939.github.io/nft-card-design/)
+- Live Site URL: [live site](https://nbailey939.github.io/qrcode-card/)
 
 ### Built with
 
